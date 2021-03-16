@@ -1,5 +1,5 @@
-function myTrueBoolen() {
+function myTrueBoolean() {
     return true;
 }
-console.log(myTrueBoolen());
-module.exports=myTrueBoolen;
+console.log(myTrueBoolean());
+module.exports=myTrueBoolean;
